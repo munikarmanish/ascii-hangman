@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1394381394 source:c:\users\manish\desktop\hangman\game.c
+	"hangman.h"
+
+1394381554 c:\users\manish\desktop\hangman\hangman.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1394381413 source:c:\users\manish\desktop\hangman\utility.c
+	"hangman.h"
+
+1394381438 source:c:\users\manish\desktop\hangman\main.c
+	"hangman.h"
+
+1394381543 source:c:\users\manish\desktop\hangman\menu.c
+	"hangman.h"
+
